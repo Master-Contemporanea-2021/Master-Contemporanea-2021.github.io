@@ -24,3 +24,13 @@ VIDEOLEZIONE -
 <a href="https://www.youtube.com/watch?v=bDzALxAYAro" target="_blank">LINK</a>
 
 ---
+
+
+
+• LEZIONE III - ELETTROACUSTICA   
+<a href="https://www.dropbox.com/s/vb82ppoiqzky8zc/03_MASTER_TerzaLezione.pdf?dl=0" target="_blank">DISPENSE</a>
+
+VIDEOLEZIONE -
+<a href="https://www.youtube.com/watch?v=O64VSGlc7mg" target="_blank">LINK</a>
+
+---
