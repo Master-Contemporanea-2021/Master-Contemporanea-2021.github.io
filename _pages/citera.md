@@ -27,10 +27,26 @@ VIDEOLEZIONE -
 
 
 
-• LEZIONE III - ELETTROACUSTICA   
+• LEZIONE III - ELETTROACUSTICA
+
+ Il Suono Analogico
+ 
 <a href="https://www.dropbox.com/s/vb82ppoiqzky8zc/03_MASTER_TerzaLezione.pdf?dl=0" target="_blank">DISPENSE</a>
 
 VIDEOLEZIONE -
 <a href="https://www.youtube.com/watch?v=O64VSGlc7mg" target="_blank">LINK</a>
+
+---
+
+
+
+• LEZIONE IV - TEORIA DEL CAMPIONAMENTO   
+
+ Il Suono Digitale
+
+<a href="https://www.dropbox.com/s/rnzdo9mcelvx3ok/04_Master_QuartaLezione.pdf?dl=0" target="_blank">DISPENSE</a>
+
+VIDEOLEZIONE -
+<a href="https://www.youtube.com/watch?v=kz12aOy3n20" target="_blank">LINK</a>
 
 ---
